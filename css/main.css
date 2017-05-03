@@ -103,31 +103,15 @@ h1 {
   padding-top: 30px;
 }
 
-.box-services {
-  float:left;
-}
-
 .text-services {
   font-size: 35px;
   letter-spacing: 2px;
 }
 
 /*ESTILOS DE section work -----------*/
-.box-work {
- text-align: center;
- display: inline-block;
- padding: 10px 20px;
-}
-.box-work img {
- width: 200px;
- margin: 50px 50px;
-}
+
 .container {
  text-align: center;
-}
-
-p {
-  text-align: center;
 }
 
 /*ESTILOS DE MODEL BOX -----------*/
