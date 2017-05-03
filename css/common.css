@@ -21,6 +21,19 @@
   float: left;
 }
 
+.row {
+  width: 100%;
+}
+
+.row:before, .row:after {
+  content: " ";
+  display: table;
+}
+
+.row:after {
+  clear:both;
+}
+
 .col-1 {
   /*(1 / 12) x 100 */
   width: 8.333333%;

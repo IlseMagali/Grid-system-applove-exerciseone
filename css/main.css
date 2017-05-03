@@ -37,5 +37,16 @@ a:hover {
   color: #E95853;
 }
 
-.contenedor {
+.logo {
+  width: 70px;
+}
+
+.link {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+header {
+  position:fixed;
+  background: white;
 }
